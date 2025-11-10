@@ -1,7 +1,7 @@
 ---
 sidebar_label: GUIA RÁPIDO - TARIFÁRIOS E DISPONIBILIDADE - CALENDÁRIO DE PREÇOS
 title: GUIA RÁPIDO - TARIFÁRIOS E DISPONIBILIDADE - CALENDÁRIO DE PREÇOS
-description: Guia rápido sobre as funcionalidades da aba de calendário de preços para gestão de tarifas e disponibilidade.
+description: Guia rápido explicando as funcionalidades da aba Calendário de Preços para gestão eficiente de tarifas e disponibilidade.
 slug: /guia-myhotel-calendario-de-precos-teste
 ---
 
@@ -9,7 +9,7 @@ slug: /guia-myhotel-calendario-de-precos-teste
 
 ---
 
-Neste guia, você vai aprender as funcionalidades da aba de calendário de preços.  
+Neste guia, você vai aprender as funcionalidades da aba de Calendário de Preços.
 
 ## Como chegar?
 
@@ -81,13 +81,13 @@ Ao estacionar o mouse neste botão, será exibida uma legenda com as cores relac
 
 Ao clicar em um dia, abrirá uma ‘janela de ‘informações’, mostrando preços, disponibilidade e restrições que tem cadastrado para o tipo de quarto do tarifário:
 
-• **Preços:**  
+- **Preços:**  
   valor por ‘Adulto (PAX) ou Criança’ de acordo com a ocupação configurada para o tipo de quarto.
 
-• **Allotment:**  
+- **Allotment:**  
   quantidade de quartos disponíveis para vendas, distribuídos por ‘Allotment’ ou ‘Ocupação’.
 
-• **Restrições:**  
+- **Restrições:**  
   cadastro de ‘Mín. de Dias’, ‘Máx. de Dias’, ‘Estadia Certa’, ‘Dias de Antecedência’, ‘Fechado à Chegada’, ‘Fechado à Saída’ (‘Venda Parada’: informa se tem fecho de vendas aplicado para o dia).
 
 E ao clicar no botão  
@@ -98,10 +98,10 @@ E ao clicar no botão
 
 ---
 
-• **Editar:**  
+- **Editar:**  
 Será possível ‘Editar Detalhes da Tarifa / Tipo de Quarto’ para seguir com as atualizações de:
 
-• **‘Preços do Quarto’:**  
+- **‘Preços do Quarto’:**  
 Aqui também será possível fazer atualizações de preços por ‘Preço Fixo’ ou ‘Variação de Preço’:
 
 Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário com impacto no inventário’, além de atualizar o preço, também será possível  
@@ -112,30 +112,30 @@ Para os tarifários com o ‘Tipo de Disponibilidade: Tarifário ou Tarifário c
 
 ---
 
-• **‘Restrições do Tarifário’:**
+- **‘Restrições do Tarifário’:**
 
 ![imagem-25](../assets/guia-myhotel-calendario-de-precos-teste/imagem-25.webp)  
 ![imagem-26](../assets/guia-myhotel-calendario-de-precos-teste/imagem-26.webp)
 
 ---
 
-• **‘Fechar/Abrir Vendas’:**
+- **‘Fechar/Abrir Vendas’:**
 
 ![imagem-28](../assets/guia-myhotel-calendario-de-precos-teste/imagem-28.webp)  
 ![imagem-29](../assets/guia-myhotel-calendario-de-precos-teste/imagem-29.webp)
 
 ---
 
-• **‘Informação da Tarifa’:**  
+- **‘Informação da Tarifa’:**  
 Informando os extras, as taxas, as ofertas e os canais que foram atribuídos ao tarifário:
 
 Após realizar a atualização das informações, clique em  
 **Salvar**.
 
-• **Fechar este(s) dia(s):**  
+- **Fechar este(s) dia(s):**  
 Aplicar fecho de vendas para o dia ou período selecionado.
 
-• **Abrir este(s) dia(s):**  
+- **Abrir este(s) dia(s):**  
 Aplicar abertura de vendas para o dia ou período selecionado.
 
 ![imagem-31](../assets/guia-myhotel-calendario-de-precos-teste/imagem-31.webp)  
@@ -155,6 +155,8 @@ Ou será possível clicar com o botão direito do mouse sobre um dia, para ter a
 ---
 
 E para ‘Editar’, ‘Fechar este(s) dia(s)’ e ‘Abrir este(s) dia(s)’ para um período diretamente no calendário, clique sobre o dia inicial e arraste para os demais dias do período. Em seguida, clique no botão ‘Editar’ (sinalizado pelo ícone de ‘Lápis’), do último dia do período selecionado:
+
+Para mais informações, contate: o nosso atendimento online CHAT - ou através do e-mail:
 
 ![imagem-37](../assets/guia-myhotel-calendario-de-precos-teste/imagem-37.webp)  
 ![imagem-39](../assets/guia-myhotel-calendario-de-precos-teste/imagem-39.webp)
